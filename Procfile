@@ -1,1 +1,1 @@
-web: pyspider webui --port $PORT ; pyspider scheduler --xmlrpc-port $($PORT5)
+web: pyspider webui --port $PORT ; pyspider scheduler --xmlrpc-port $PORT5
