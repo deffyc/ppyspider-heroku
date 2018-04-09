@@ -1,2 +1,1 @@
 pyspider webui: pyspider webui --port $PORT
-pyspider scheduler: pyspider scheduler --xmlrpc-port $(($PORT-50))
