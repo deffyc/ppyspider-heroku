@@ -1,1 +1,1 @@
-web: honcho start -f Procfile.honcho
+web: pyspider webui --port $PORT
