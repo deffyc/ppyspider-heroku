@@ -1,1 +1,1 @@
-web: pyspider webui --port $PORT ; pyspider scheduler --xmlrpc-port $PORT5
+web: PYTHONIOENCODING="utf-8" honcho start -f Procfile.honcho
