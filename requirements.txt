@@ -2,7 +2,6 @@ tornado==4.5.3
 pyspider
 selenium
 splinter 
-scrapy-redis
 redis
 pymongo
 mongoengine
