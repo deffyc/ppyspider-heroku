@@ -1,5 +1,6 @@
 honcho==0.7.1
 tornado==4.5.3
+cryptography 
 pyspider
 selenium
 splinter 
