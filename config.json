@@ -1,8 +1,5 @@
 {
-  "webui": {
-    "port": 5001
-  },
   "scheduler": {
-    "xmlrpc-port": 23333
+    "xmlrpc-port": $PORT
   }
 }
