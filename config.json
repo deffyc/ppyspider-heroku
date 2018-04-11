@@ -1,5 +1,5 @@
 {
   "scheduler": {
-    "xmlrpc-port": $PORT
+    "xmlrpc-port": 23333
   }
 }
