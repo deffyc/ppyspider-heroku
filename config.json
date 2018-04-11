@@ -1,5 +1,8 @@
 {
+  "webui": {
+    "--port": 5001
+  },
   "scheduler": {
-    "--xmlrpc-port": 2333,
+    "--xmlrpc-port": 2333
   }
 }
