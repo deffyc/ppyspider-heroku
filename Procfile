@@ -1,1 +1,1 @@
-web: pyspider -c config.json
+web: pyspider -c config.json scheduler
