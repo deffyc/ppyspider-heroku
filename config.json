@@ -1,6 +1,8 @@
 {
   "webui": {
-    "port": 5001
+    "need-auth": "True",
+    "username": "root",
+    "password": "root"
   },
   "scheduler": {
     "xmlrpc-port": 23333
