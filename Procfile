@@ -1,2 +1,1 @@
-web: pyspider webui --port $PORT
-
+web: pyspider
