@@ -1,1 +1,1 @@
-web: pyspider webui --port $(($PORT-50))
+web: pyspider webui --port $($PORT-50)
