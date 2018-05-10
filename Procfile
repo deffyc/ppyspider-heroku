@@ -1,1 +1,1 @@
-web: pyspider -c config.json webui --port $PORT
+web: pyspider webui --port $(($PORT-50))
