@@ -1,4 +1,4 @@
-cryptography==2.1.4
+cryptography
 honcho==0.7.1
 tornado==4.5.3 
 pyspider
